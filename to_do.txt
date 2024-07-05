@@ -1,0 +1,8 @@
+Add rating to teams_ro16.csv
+Add self.rating*0.1 to ratio(), maybe not as a factor. Ideas: 
+	(()+self.rating*0.1)/()
+	()/()+self.rating*0.1 #This one looks better
+
+test everything
+
+keep developing the real_life_qf_sim() function.
